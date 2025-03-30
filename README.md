@@ -47,5 +47,3 @@ The project consists of three main parts:
 
 1. Click the "Open In Colab" button above to open the project in Google Colab.
 2. Run the cells in order to see the training process and results.
-
-This project is designed to run in the Google Colab environment only.
