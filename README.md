@@ -1,6 +1,4 @@
-Neural Network on Fashion-MNIST Dataset
 
-This project demonstrates the implementation of a neural network on the Fashion-MNIST dataset.
 ## Project Description
 
 Project completed as part of the ML course at Bar-Ilan University. This project implements neural networks for classifying handwritten digits (MNIST) and fashion items (Fashion-MNIST) using both pure NumPy and PyTorch approaches.
